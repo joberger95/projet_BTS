@@ -1,0 +1,31 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0004]  Possible pin type conflict U4,RC6/TX/CK Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (109.22, 78.74) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0007]  Net has no driving source PG[1..2]
+                    SCHEMATIC1, PAGE1  (58.42, 137.16) 
+WARNING:  [DRC0007]  Net has no driving source PG[1..2]
+                    SCHEMATIC1, PAGE1  (58.42, 137.16) 
+WARNING:  [DRC0007]  Net has no driving source I2C[1..2]
+                    SCHEMATIC1, PAGE1  (129.54, 73.66) 
+WARNING:  [DRC0007]  Net has no driving source I2C[1..2]
+                    SCHEMATIC1, PAGE1  (129.54, 73.66) 
+WARNING:  [DRC0006]  Net has fewer than two connections PG1
+                    SCHEMATIC1, PAGE1  (116.84, 58.42) 
+WARNING:  [DRC0006]  Net has fewer than two connections PG2
+                    SCHEMATIC1, PAGE1  (116.84, 58.42) 
+WARNING:  [DRC0006]  Net has fewer than two connections I2C1
+                    SCHEMATIC1, PAGE1  (256.54, 78.74) 
+WARNING:  [DRC0006]  Net has fewer than two connections I2C2
+                    SCHEMATIC1, PAGE1  (256.54, 78.74) 
+
+Checking for Invalid References
+
+Checking for Duplicate References

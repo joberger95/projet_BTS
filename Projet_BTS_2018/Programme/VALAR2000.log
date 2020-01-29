@@ -1,0 +1,20 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F26K22 -DL -O11111114 -fo8 -N"G:\Projet_BTS_2018\Programme\VALAR2000.mcppi" -SP"C:\Program Files\mikroC PRO for PIC\defs\" -SP"C:\Program Files\mikroC PRO for PIC\uses\P18\" -SP"G:\Projet_BTS_2018\Programme\" -SP"G:\Programme\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Jordan\Documents\Projet_BTS_2018\Programme\" -SP"C:\Users\Jordan\Documents\Projet_BTS_2018\Dossier Module 4\_Programme\" "RECEPTION.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Sound.mcl" "__Lib_ADC_K22.mcl" "__Lib_I2C_c34b12.mcl" "__Lib_SPI_c345b123.mcl" "__Lib_UART_c67b67.mcl" "__Lib_PortExpander.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'G:\Programme'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Jordan\Documents\Projet_BTS_2018\Programme'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Jordan\Documents\Projet_BTS_2018\Dossier Module 4\_Programme'	 
+hint: 0	1139	Available RAM: 3875 [bytes], Available ROM: 65536 [bytes]	 
+hint: 29	1354	 warning: "/*" within comment     /*****Configuration de l'Afficheur****/  ture) ou 0xDF(Lecture)	G:\Projet_BTS_2018\Programme\RECEPTION.c
+diagnostics: 0	126	All files Preprocessed in 1669 ms	 
+hint: 29	1354	 warning: "/*" within comment     /*****Configuration de l'Afficheur****/  ture) ou 0xDF(Lecture)	G:\Projet_BTS_2018\Programme\RECEPTION.c
+diagnostics: 0	122	Compilation Started	RECEPTION.c
+warning: 77	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	RECEPTION.c
+diagnostics: 98	123	Compiled Successfully	RECEPTION.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 26 (1%)  Free RAM (bytes): 3849 (99%)	Used RAM (bytes): 26 (1%)  Free RAM (bytes): 3849 (99%)
+hint: 0	1144	Used ROM (bytes): 672 (1%)  Free ROM (bytes): 64864 (99%)	Used ROM (bytes): 672 (1%)  Free ROM (bytes): 64864 (99%)
+diagnostics: 0	125	Project Linked Successfully	VALAR2000.mcppi
+diagnostics: 0	128	Linked in 8050 ms	 
+diagnostics: 0	129	Project 'VALAR2000.mcppi' completed: 9844 ms	 
+diagnostics: 0	103	Finished successfully: 12 juin 2018, 16:44:04	VALAR2000.mcppi

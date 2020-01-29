@@ -1,0 +1,41 @@
+{Environment
+	{FilesPath  M:\DONNEES_ELEVES\2STSA\__PROJETS_BTS 2018\BERGER JORDAN\DOSSIER MODULE 4\_ORCAD}
+}
+{Layers
+	{Layer  1
+		{File        BERGER_VALAR2000_V9_FINAL.TOP}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  red}
+		{DrawColor   red}
+		{Type        Top}
+	}
+	{Layer  2
+		{File        BERGER_VALAR2000_V9_FINAL.BOT}
+		{LyrName     -}
+		{ApList      }
+		{Visibility  On}
+		{FlashColor  yellow}
+		{DrawColor   yellow}
+		{Type        Bottom}
+	}
+}
+{Format Gerber
+	{Dialect           RS274X}
+	{m.n               3.4}
+	{Mode              Absolute}
+	{ZeroSuppression   Leading}
+	{Terminator        0x2a, 0xD, 0xA}
+	{Metric            No}
+	{Modal             No}
+	{UserData          Yes}
+	{Nets              No}
+	{Gcmds             Yes}
+	{CharSet           ASCII}
+	{Arcs360           No}
+	{ArcsModal         Yes}
+	{HonorCrLf         No}
+	{Comments          Yes}
+	{Flags             0}
+}

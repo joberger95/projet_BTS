@@ -1,0 +1,31 @@
+AutoECO Report
+FILE-A: C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+FILE-B: C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB/1N4001
+Adding package LED
+Adding component D6
+Adding component PT8
+Adding component C11
+Adding component R16
+Net TXPIC renamed to RX_PIC
+Adding net N90034
+Net RX2/PGC renamed to TX2/PGC
+Net TX2/PGD renamed to RX2/PGD
+Net RXPIC2 renamed to TX_PIC
+Adding PT8.1 to net GND
+Adding U4.1 to net GND
+Adding U4.2 to net GND
+Adding U4.3 to net GND
+Adding C11.1 to net GND
+Deleting PT7.1 from net RX1
+Deleting U8.1 from net RX1
+Adding R16.2 to net RX1
+Adding D6.1 to net RX1
+Adding R16.1 to net VCC
+Adding C11.2 to net VCC
+Adding U8.1 to net N90034
+Adding PT7.1 to net N90034
+Adding D6.2 to net N90034
+*EOF*
+No errors found

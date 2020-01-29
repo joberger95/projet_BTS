@@ -1,0 +1,25 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0004]  Possible pin type conflict U8,TX Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE_A4  (190.50, 132.08) 
+ERROR:  [DRC0004]  Possible pin type conflict U4,WP Open Collector Connected to Power
+                    SCHEMATIC1, PAGE_A4  (314.96, 187.96) 
+
+Checking for Unconnected Nets
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N68238
+                    SCHEMATIC1, PAGE_A4  (35.56, 144.78) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N69366
+                    SCHEMATIC1, PAGE_A4  (289.56, 198.12) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N89822
+                    SCHEMATIC1, PAGE_A4  (276.86, 149.86) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N68076
+                    SCHEMATIC1, PAGE_A4  (137.16, 48.26) 
+
+Checking for Invalid References
+
+Checking for Duplicate References

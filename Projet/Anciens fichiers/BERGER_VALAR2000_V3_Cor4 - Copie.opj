@@ -1,0 +1,70 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\orcad_91\userlib\bts_2018.olb"
+        (Type "Schematic Library")))
+    (File ".\berger_valar2000_v3_cor4.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File ".\BERGER_VALAR2000_V3_COR4.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\USERS\JJCOT\DROPBOX\PROJETS_BTS 2018\BERGER JORDAN\DOSSIER MODULE 4\ORCAD\BERGER_VALAR2000_V3_cor4.DRC")
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\berger_valar2000_v3_cor4.drc"
+      (Type "Report"))
+    (File ".\berger_valar2000_v3_cor4.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File
+       "c:\users\jjcot\dropbox\projets_bts 2018\berger jordan\dossier module 4\orcad\berger_valar2000_v3_cor4.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (r
+      (FullPartName "r.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0"))
+    (lm7812c
+      (FullPartName "lm7812c.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\AJOUT_19_01_17.OLB")
+      (DeviceIndex "0"))
+    (1N4001
+      (FullPartName "1N4001.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "M:\DONNEES_ELEVES\2STSa\__Projets_BTS 2018\BERGER Jordan\Dossier Module 4\ORCAD\berger_valar2000_v3_cor4.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 407 0 381"))
+      (Tab 0))))

@@ -1,0 +1,27 @@
+AutoECO Report
+FILE-A: C:\USERS\JJCOT\DROPBOX\PROJETS_BTS 2018\BERGER JORDAN\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4_COR5.MAX
+FILE-B: C:\USERS\JJCOT\DROPBOX\PROJETS_BTS 2018\BERGER JORDAN\DOSSIER MODULE 4\_ORCAD\.\BERGER_VALAR2000_V4.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package SW-SPDT
+Adding package LED
+Adding component SW4
+Adding component SW5
+Adding component J1
+Deleting PT8.1 from net GND
+Adding J1.4 to net GND
+Adding SW4.1 to net N84880
+Adding SW5.1 to net TXPIC
+Adding J1.5 to net VCC
+Adding SW4.3 to net PGC
+Adding J1.2 to net PGC
+Adding SW5.3 to net PGD
+Adding J1.3 to net PGD
+Adding U9.28 to net TX2/PGD
+Adding SW5.2 to net TX2/PGD
+Adding SW4.2 to net RX2/PGC
+Adding U9.27 to net RX2/PGC
+Adding J1.6 to net N68250
+Adding R8.1 to net N68250
+Deleting component PT8
+*EOF*
+No errors found

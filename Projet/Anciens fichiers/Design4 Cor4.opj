@@ -1,0 +1,173 @@
+(ExpressProject "Design3"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\OrCAD_91\userlib\BTS_2018.OLB"
+        (Type "Schematic Library"))
+      (File "c:\orcad_91\capture\library\biblio_orcad\mesure_niveau_cuve.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_91\userlib\ajout_22_04_16.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\berger_valar2000 cor3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\VALIDEUR V2000_ARRÊT DEMANDÉ\DOCUMENTATION\_SCHÉMA STRUCTUREL\ORCAD\DESIGN3.DRC"))
+  (Folder "Outputs"
+    (File ".\design3.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("SW SPDT"
+      (FullPartName "SW SPDT.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0"))
+    (C+
+      (FullPartName "C+.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (POTAJ
+      (FullPartName "POTAJ.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (Cavalier
+      (FullPartName "Cavalier.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (PIC18F26K22
+      (FullPartName "PIC18F26K22.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    ("GSM Click Board1_2"
+      (FullPartName "GSM Click Board1_2.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (RJ12
+      (FullPartName "RJ12.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (BP
+      (FullPartName "BP.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (TEMP/HUM_JP_4
+      (FullPartName "TEMP/HUM_JP_4.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (Ptest
+      (FullPartName "Ptest.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (24LC512_Memory
+      (FullPartName "24LC512_Memory.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (GSM_JP_16
+      (FullPartName "GSM_JP_16.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (JP_16
+      (FullPartName "JP_16.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (JP_8x2
+      (FullPartName "JP_8x2.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (Quartz
+      (FullPartName "Quartz.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (PIC18F2580
+      (FullPartName "PIC18F2580.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (PIC18F2680
+      (FullPartName "PIC18F2680.Normal")
+      (LibraryName
+         "C:\USERS\JORDAN\DROPBOX\PROJETS_BTS 2018\__A VOIR CONSIGNES ET CONSEILS PROJETS ET RAPPORT\CONSEILS SUR ORCAD\AJOUT_08_03_16.OLB")
+      (DeviceIndex "0"))
+    (r
+      (FullPartName "r.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0"))
+    (1N4001
+      (FullPartName "1N4001.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0"))
+    ("LCD2x16 ACM1602_retro"
+      (FullPartName "LCD2x16 ACM1602_retro.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0"))
+    (2N2222
+      (FullPartName "2N2222.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0"))
+    (BUZZER
+      (FullPartName "BUZZER.Normal")
+      (LibraryName
+         "C:\ORCAD_91\CAPTURE\LIBRARY\BIBLIO_ORCAD\MESURE_NIVEAU_CUVE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\Jordan\Dropbox\Projets_BTS 2018\BERGER Jordan\Dossier Module 4\Valideur V2000_Arrêt Demandé\Documentation\_Schéma Structurel\ORCAD\berger_valar2000 cor3.dsn")
+      (Path "Design Resources"
+         "C:\Users\Jordan\Dropbox\Projets_BTS 2018\BERGER Jordan\Dossier Module 4\Valideur V2000_Arrêt Demandé\Documentation\_Schéma Structurel\ORCAD\berger_valar2000 cor3.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\Jordan\Dropbox\Projets_BTS 2018\BERGER Jordan\Dossier Module 4\Valideur V2000_Arrêt Demandé\Documentation\_Schéma Structurel\ORCAD\berger_valar2000 cor3.dsn"
+         "SCHEMATIC1" "PAGE_A4"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 248 0 724"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 182 1484 182 676")
+        (Scroll "0 0")
+        (Zoom "69")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\JORDAN\DROPBOX\PROJETS_BTS 2018\BERGER JORDAN\DOSSIER MODULE 4\VALIDEUR V2000_ARRÊT DEMANDÉ\DOCUMENTATION\_SCHÉMA STRUCTUREL\ORCAD\BERGER_VALAR2000 COR3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE_A4"))))

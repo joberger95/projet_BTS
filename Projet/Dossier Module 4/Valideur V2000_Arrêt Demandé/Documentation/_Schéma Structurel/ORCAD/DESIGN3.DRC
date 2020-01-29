@@ -1,0 +1,51 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0007]  Net has no driving source SCL
+                    SCHEMATIC1, PAGE1  (335.28, 58.42) 
+WARNING:  [DRC0007]  Net has no driving source EN
+                    SCHEMATIC1, PAGE1  (25.40, 20.32) 
+WARNING:  [DRC0007]  Net has no driving source D6
+                    SCHEMATIC1, PAGE1  (25.40, 38.10) 
+WARNING:  [DRC0007]  Net has no driving source D5
+                    SCHEMATIC1, PAGE1  (25.40, 35.56) 
+WARNING:  [DRC0007]  Net has no driving source D7
+                    SCHEMATIC1, PAGE1  (25.40, 40.64) 
+WARNING:  [DRC0007]  Net has no driving source RS
+                    SCHEMATIC1, PAGE1  (25.40, 15.24) 
+WARNING:  [DRC0007]  Net has no driving source D4
+                    SCHEMATIC1, PAGE1  (25.40, 33.02) 
+WARNING:  [DRC0006]  Net has fewer than two connections N05726
+                    SCHEMATIC1, PAGE1  (340.36, 45.72) 
+WARNING:  [DRC0006]  Net has fewer than two connections SCL
+                    SCHEMATIC1, PAGE1  (335.28, 58.42) 
+WARNING:  [DRC0006]  Net has fewer than two connections EN
+                    SCHEMATIC1, PAGE1  (25.40, 20.32) 
+WARNING:  [DRC0006]  Net has fewer than two connections D6
+                    SCHEMATIC1, PAGE1  (25.40, 38.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections D5
+                    SCHEMATIC1, PAGE1  (25.40, 35.56) 
+WARNING:  [DRC0006]  Net has fewer than two connections D7
+                    SCHEMATIC1, PAGE1  (25.40, 40.64) 
+WARNING:  [DRC0006]  Net has fewer than two connections RS
+                    SCHEMATIC1, PAGE1  (25.40, 15.24) 
+WARNING:  [DRC0006]  Net has fewer than two connections D4
+                    SCHEMATIC1, PAGE1  (25.40, 33.02) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N15846
+                    SCHEMATIC1, PAGE1  (22.86, 17.78) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N17939
+                    SCHEMATIC1, PAGE1  (332.74, 60.96) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N18149
+                    SCHEMATIC1, PAGE1  (297.18, 233.68) 
+
+Checking for Invalid References
+[DRC0011]  Reference is invalid for this part Pile
+                    SCHEMATIC1, PAGE1  (360.68, 12.70) 
+
+Checking for Duplicate References

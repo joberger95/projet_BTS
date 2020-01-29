@@ -1,0 +1,95 @@
+AutoECO Report
+FILE-A: E:\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+FILE-B: E:\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+If "*EOF*" immediately follows, no changes were made
+Padstack Modul_pc.llb_pad1 renamed to MODUL_PC.LLB_PAD1
+Padstack Modul_pc.llb_pad2 renamed to MODUL_PC.LLB_PAD2
+Padstack RONDE-2mm_1 renamed to RONDE-2MM_1
+Padstack Pad_29_3 renamed to PAD_29_3
+Padstack Pad_28_1 renamed to PAD_28_1
+Padstack Pad_27_1_1 renamed to PAD_27_1_1
+Padstack OVAL-3x2mm_1 renamed to OVAL-3X2MM_1
+Padstack Modul_pc.llb_pad28 renamed to MODUL_PC.LLB_PAD28
+Padstack OVAL-2.54x1.3mm_1 renamed to OVAL-2.54X1.3MM_1
+Padstack RECT-2.54x1.50_1 renamed to RECT-2.54X1.50_1
+Padstack OVAL-2.54x1.5mm_2 renamed to OVAL-2.54X1.5MM_2
+Padstack RONDE-3mm_1 renamed to RONDE-3MM_1
+Padstack OVAL-2.54x1.4mm_1 renamed to OVAL-2.54X1.4MM_1
+Padstack RECT-2.00x1.30_2 renamed to RECT-2.00X1.30_2
+Padstack Modul_pc.llb_pad3_1 renamed to MODUL_PC.LLB_PAD3_1
+Padstack Modul_pc.llb_pad4 renamed to MODUL_PC.LLB_PAD4
+Padstack Modul_pc.llb_pad29_1 renamed to MODUL_PC.LLB_PAD29_1
+Padstack OVAL-3x2mm_2_1 renamed to OVAL-3X2MM_2_1
+Padstack RONDE-2mm54_1 renamed to RONDE-2MM54_1
+Padstack Modul_pc.llb_pad27 renamed to MODUL_PC.LLB_PAD27
+Padstack OVAL-2.54x1.5mm_3 renamed to OVAL-2.54X1.5MM_3
+Padstack RONDE-6mm_1_1 renamed to RONDE-6MM_1_1
+Padstack Pad_25_2 renamed to PAD_25_2
+Padstack Modul_pc.llb_pad5 renamed to MODUL_PC.LLB_PAD5
+Padstack Modul_pc.llb_pad6 renamed to MODUL_PC.LLB_PAD6
+Padstack Modul_pc.llb_pad47 renamed to MODUL_PC.LLB_PAD47
+Padstack OVAL-2.54x1.5mm_4 renamed to OVAL-2.54X1.5MM_4
+Padstack Pad_26_4 renamed to PAD_26_4
+Adding footprint RC05
+Footprint MontreA_X1 renamed to MONTREA_X1
+Adding footprint RC05_R9
+Adding footprint RC05_R11
+Adding footprint RC05_R6
+Adding footprint RC05_R5
+Adding footprint RC05_R7
+Adding footprint RC05_R1
+Adding footprint RJ12_EC_J3
+Adding footprint RC05_R3
+Adding footprint RC05_R10
+Adding footprint RJ12_EC_J2
+Adding footprint DO41_1_D1
+Adding footprint RC05_R8
+Adding footprint CK05_C3
+Adding footprint RC05_R4
+Adding footprint BUZ_12X7_62_BUZ1
+Adding footprint RC05_R2
+Footprint MontreA renamed to MONTREA
+Adding footprint RC05_R14
+Adding footprint RC05_R15
+Adding footprint RC05_R16
+Adding footprint RC05_R14
+Adding footprint RC05_R15
+Adding footprint 3SIP100_SW3
+Adding footprint 3SIP100_SW2
+Adding footprint 3SIP100_SW3
+Adding footprint 3SIP100_SW2
+Adding footprint 3SIP100_SW3
+Adding footprint 3SIP100_SW2
+Adding footprint 3SIP100_SW3
+Adding footprint 3SIP100_SW2
+Adding footprint 3SIP100_SW3
+Adding footprint 3SIP100_SW2
+Adding footprint RJ12_EC_J1
+Adding footprint TSTPT1_PT8
+Adding footprint RC05_R16
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding package LED
+Adding sym obstacles 498
+Adding sym obstacles 500
+Adding sym obstacles 502
+Adding sym texts 338
+Adding sym texts 340
+Adding sym texts 342
+Adding sym texts 344
+Adding R4.1 to net BUZ
+Adding U9.16 to net BUZ
+Adding LCD1.12 to net D5
+Adding U9.24 to net D5
+*EOF*
+No errors found

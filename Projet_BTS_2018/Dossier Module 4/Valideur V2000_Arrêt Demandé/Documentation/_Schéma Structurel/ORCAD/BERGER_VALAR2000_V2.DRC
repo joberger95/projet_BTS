@@ -1,0 +1,125 @@
+
+Checking Pins and Pin Connections
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C3/1 Nets: 'N69370' and 'N68849'. 
+                    SCHEMATIC1, PAGE_A4  (269.24, 50.80) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C3/2 Nets: 'N69378' and 'N68817'. 
+                    SCHEMATIC1, PAGE_A4  (269.24, 43.18) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C4/1 Nets: 'GND' and 'N68901'. 
+                    SCHEMATIC1, PAGE_A4  (276.86, 50.80) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C4/2 Nets: 'N69378' and 'N68961'. 
+                    SCHEMATIC1, PAGE_A4  (276.86, 43.18) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C5/2 Nets: 'VCC' and 'N68274'. 
+                    SCHEMATIC1, PAGE_A4  (200.66, 198.12) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C5/1 Nets: 'N68977' and 'GND'. 
+                    SCHEMATIC1, PAGE_A4  (200.66, 205.74) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /C6/2 Nets: 'N68344' and 'N69037'. 
+                    SCHEMATIC1, PAGE_A4  (20.32, 86.36) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D1/1 Nets: 'N68515' and 'N68533'. 
+                    SCHEMATIC1, PAGE_A4  (93.98, 200.66) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D1/2 Nets: 'GND' and '+12V'. 
+                    SCHEMATIC1, PAGE_A4  (93.98, 208.28) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D2/1 Nets: 'VBAT' and 'N89157'. 
+                    SCHEMATIC1, PAGE_A4  (236.22, 22.86) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D2/2 Nets: 'N69378' and 'TXPIC'. 
+                    SCHEMATIC1, PAGE_A4  (236.22, 35.56) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D3/1 Nets: 'N687710' and 'VCC'. 
+                    SCHEMATIC1, PAGE_A4  (147.32, 205.74) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D3/2 Nets: 'RXPIC' and 'N69378'. 
+                    SCHEMATIC1, PAGE_A4  (147.32, 213.36) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D4/1 Nets: 'N89563' and 'N70445'. 
+                    SCHEMATIC1, PAGE_A4  (109.22, 177.80) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /D4/2 Nets: 'TXPIC' and 'GND'. 
+                    SCHEMATIC1, PAGE_A4  (109.22, 190.50) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /J1/2 Nets: 'PGC' and 'GND'. 
+                    SCHEMATIC1, PAGE_A4  (25.40, 144.78) 
+ERROR:  [DRC0031]  Same Pin Number connected to  more than one net. /J1/3 Nets: 'PGD' and 'GND'. 
+                    SCHEMATIC1, PAGE_A4  (25.40, 142.24) 
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0004]  Possible pin type conflict U8,RX Output Connected to Bidirectional
+                    SCHEMATIC1, PAGE_A4  (170.18, 142.24) 
+ERROR:  [DRC0004]  Possible pin type conflict U4,WP Open Collector Connected to Power
+                    SCHEMATIC1, PAGE_A4  (314.96, 187.96) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0007]  Net has no driving source N76950
+                    SCHEMATIC1, PAGE_A4  (147.32, 38.10) 
+WARNING:  [DRC0007]  Net has no driving source N78129
+                    SCHEMATIC1, PAGE_A4  (139.70, 35.56) 
+WARNING:  [DRC0006]  Net has fewer than two connections RS
+                    SCHEMATIC1, PAGE_A4  (96.52, 73.66) 
+WARNING:  [DRC0006]  Net has fewer than two connections N76950
+                    SCHEMATIC1, PAGE_A4  (147.32, 38.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections N78129
+                    SCHEMATIC1, PAGE_A4  (139.70, 35.56) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N68238
+                    SCHEMATIC1, PAGE_A4  (35.56, 144.78) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N68076
+                    SCHEMATIC1, PAGE_A4  (137.16, 55.88) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N69366
+                    SCHEMATIC1, PAGE_A4  (289.56, 198.12) 
+ERROR:  [DRC0029]  Bus has no name and therefore defines no signals. N89817
+                    SCHEMATIC1, PAGE_A4  (274.32, 170.18) 
+
+Checking for Invalid References
+[DRC0011]  Reference is invalid for this part Pile
+                    SCHEMATIC1, PAGE_A4  (233.68, 10.16) 
+[DRC0026]  This reference has already been assigned to a different package type. D1
+                    SCHEMATIC1, PAGE_A4  (91.44, 203.20) 
+[DRC0026]  This reference has already been assigned to a different package type. D3
+                    SCHEMATIC1, PAGE_A4  (144.78, 208.28) 
+[DRC0026]  This reference has already been assigned to a different package type. C5
+                    SCHEMATIC1, PAGE_A4  (198.12, 200.66) 
+[DRC0026]  This reference has already been assigned to a different package type. D4
+                    SCHEMATIC1, PAGE_A4  (106.68, 180.34) 
+[DRC0026]  This reference has already been assigned to a different package type. D2
+                    SCHEMATIC1, PAGE_A4  (233.68, 25.40) 
+[DRC0026]  This reference has already been assigned to a different package type. C6
+                    SCHEMATIC1, PAGE_A4  (15.24, 83.82) 
+[DRC0026]  This reference has already been assigned to a different package type. J1
+                    SCHEMATIC1, PAGE_A4  (10.16, 132.08) 
+[DRC0026]  This reference has already been assigned to a different package type. C4
+                    SCHEMATIC1, PAGE_A4  (274.32, 45.72) 
+[DRC0026]  This reference has already been assigned to a different package type. C3
+                    SCHEMATIC1, PAGE_A4  (266.70, 45.72) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. D3
+                    SCHEMATIC1, PAGE_A4  (144.78, 208.28) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. C5
+                    SCHEMATIC1, PAGE_A4  (15.24, 73.66) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. D1
+                    SCHEMATIC1, PAGE_A4  (30.48, 195.58) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. D4
+                    SCHEMATIC1, PAGE_A4  (160.02, 83.82) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. D2
+                    SCHEMATIC1, PAGE_A4  (134.62, 210.82) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. C6
+                    SCHEMATIC1, PAGE_A4  (15.24, 83.82) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. J1
+                    SCHEMATIC1, PAGE_A4  (10.16, 132.08) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. C4
+                    SCHEMATIC1, PAGE_A4  (274.32, 45.72) 
+ERROR:  [DRC0027]  Other parts in this package have different values or PCB footprints. C3
+                    SCHEMATIC1, PAGE_A4  (266.70, 45.72) 
+
+Checking for Duplicate References
+[DRC0010]  Duplicate reference D3
+                    SCHEMATIC1, PAGE_A4  (144.78, 208.28) 
+[DRC0010]  Duplicate reference C5
+                    SCHEMATIC1, PAGE_A4  (15.24, 73.66) 
+[DRC0010]  Duplicate reference D1
+                    SCHEMATIC1, PAGE_A4  (30.48, 195.58) 
+[DRC0010]  Duplicate reference D4
+                    SCHEMATIC1, PAGE_A4  (160.02, 83.82) 
+[DRC0010]  Duplicate reference D2
+                    SCHEMATIC1, PAGE_A4  (134.62, 210.82) 
+[DRC0010]  Duplicate reference C6
+                    SCHEMATIC1, PAGE_A4  (15.24, 83.82) 
+[DRC0010]  Duplicate reference J1
+                    SCHEMATIC1, PAGE_A4  (10.16, 132.08) 
+[DRC0010]  Duplicate reference C4
+                    SCHEMATIC1, PAGE_A4  (274.32, 45.72) 
+[DRC0010]  Duplicate reference C3
+                    SCHEMATIC1, PAGE_A4  (266.70, 45.72) 

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="GANT_Project_BERGER" company="" webLink="http://" view-date="2018-01-31" view-index="0" gantt-divider-location="545" resource-divider-location="300" version="2.8.6" locale="fr">
+    <description/>
+    <view zooming-state="default:0" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="231" order="0"/>
+        <field id="tpd6" name="Durée" width="82" order="1"/>
+        <field id="tpd4" name="Date de début" width="107" order="2"/>
+        <field id="tpd5" name="Date de fin" width="106" order="3"/>
+        <option id="taskLabelUp" value="name"/>
+        <option id="color.recent"><![CDATA[#000000 #00ffff #3333ff #66ff00 #ff3333 #ff0000 #666666 #999999 #333333 #ece9d8]]></option>
+    </view>
+    <view id="resource-table"/>
+    <!-- -->
+    <calendars base-id="france">
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="1" tue="0" wed="0" thu="0" fri="1" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+        <date year="" month="1" date="1" type="HOLIDAY"><![CDATA[New Year's Day]]></date>
+        <date year="" month="5" date="1" type="HOLIDAY"><![CDATA[Labour Day]]></date>
+        <date year="" month="5" date="8" type="HOLIDAY"><![CDATA[V-E Day]]></date>
+        <date year="" month="7" date="14" type="HOLIDAY"><![CDATA[Bastille Day]]></date>
+        <date year="" month="8" date="15" type="HOLIDAY"><![CDATA[Assumption Day]]></date>
+        <date year="" month="11" date="1" type="HOLIDAY"><![CDATA[All Saints Day]]></date>
+        <date year="" month="11" date="11" type="HOLIDAY"><![CDATA[Armistice Day]]></date>
+        <date year="" month="12" date="25" type="HOLIDAY"><![CDATA[Christmas Day]]></date>
+        <date year="2018" month="4" date="2" type="HOLIDAY" color="#00ffff"><![CDATA[Easter Monday]]></date>
+        <date year="2018" month="5" date="10" type="HOLIDAY" color="#00ffff"/>
+        <date year="2018" month="5" date="21" type="HOLIDAY" color="#00ffff"><![CDATA[Whit Monday]]></date>
+        <date year="2018" month="5" date="27" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="6" date="17" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="2" date="23" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="2" date="24" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="2" date="25" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="2" date="26" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="2" date="27" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="2" date="28" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="1" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="2" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="3" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="4" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="5" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="6" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="7" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="8" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="9" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="10" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="11" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="3" date="12" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="4" date="26" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="4" date="27" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="4" date="28" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="4" date="29" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="4" date="30" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="1" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="2" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="3" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="4" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="5" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="6" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="7" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="8" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="9" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="11" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="12" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="13" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="5" date="14" type="HOLIDAY" color="#666666"/>
+        <date year="2018" month="2" date="10" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="2" date="11" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="2" date="17" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="2" date="18" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="3" date="17" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="3" date="18" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="3" date="24" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="3" date="25" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="3" date="31" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="1" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="7" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="8" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="14" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="15" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="21" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="4" date="22" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="5" date="19" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="5" date="20" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="5" date="26" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="6" date="2" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="6" date="3" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="6" date="9" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="6" date="10" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+        <date year="2018" month="6" date="16" type="NEUTRAL" color="#ff3333"><![CDATA[Week-end]]></date>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Diagrammes SYSML initiation" color="#ff0000" shape="1,0,1,0,0,1,0,1,1,0,1,0,0,1,0,1" meeting="false" start="2018-02-06" duration="3" complete="0" expand="true">
+            <depend id="3" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="3" name="Diagramme blocs internes" color="#8cb6ce" meeting="false" start="2018-02-13" duration="3" complete="0" expand="true">
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="4" name="Recherche des composants" meeting="false" start="2018-02-20" duration="3" complete="0" expand="true"/>
+        <task id="5" name="Comparaison des solutions" color="#8cb6ce" meeting="false" start="2018-02-20" duration="3" complete="0" thirdDate="2018-03-21" thirdDate-constraint="0" priority="2" expand="true"/>
+        <task id="6" name="Choix final des commposants" color="#8cb6ce" meeting="false" start="2018-02-22" duration="1" complete="0" expand="true"/>
+        <task id="7" name="Fin SYSML" color="#8cb6ce" meeting="false" start="2018-02-22" duration="1" complete="0" expand="true"/>
+        <task id="38" name="Envoi Dossier E61" color="#3333ff" meeting="false" start="2018-03-20" duration="1" complete="0" thirdDate="2018-02-13" thirdDate-constraint="0" expand="true"/>
+        <task id="8" name="Revue de projet 2" color="#66ff00" meeting="false" start="2018-02-22" duration="1" complete="0" thirdDate="2018-02-22" thirdDate-constraint="0" expand="true">
+            <depend id="9" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="9" name="Schéma Structurel ORCAD" meeting="false" start="2018-03-13" duration="3" complete="0" expand="true">
+            <depend id="10" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="10" name="Simulation des composants" meeting="false" start="2018-03-20" duration="3" complete="0" expand="true"/>
+        <task id="11" name="Routage carte LAYOUT" color="#8cb6ce" meeting="false" start="2018-03-20" duration="6" complete="0" expand="true">
+            <depend id="12" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="12" name="Réalisations  des cartes" color="#000000" meeting="false" start="2018-04-03" duration="3" complete="0" thirdDate="2018-04-03" thirdDate-constraint="0" expand="true"/>
+        <task id="14" name="Perçage des cartes" color="#8cb6ce" meeting="false" start="2018-04-03" duration="3" complete="0" expand="true">
+            <depend id="15" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="15" name="Soudure des composants" meeting="false" start="2018-04-10" duration="3" complete="0" expand="true"/>
+        <task id="16" name="Test des composants" color="#8cb6ce" meeting="false" start="2018-04-10" duration="3" complete="0" expand="true">
+            <depend id="17" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="17" name="Elaboration des programmes tests" meeting="false" start="2018-04-17" duration="5" complete="0" expand="true"/>
+        <task id="18" name="Test pour recette final" color="#8cb6ce" meeting="false" start="2018-04-25" duration="2" complete="0" expand="true"/>
+        <task id="19" name="Elaboration du programme final" color="#8cb6ce" meeting="false" start="2018-04-25" duration="2" complete="0" expand="true"/>
+        <task id="13" name="Test pour la maintenance" color="#8cb6ce" meeting="false" start="2018-04-25" duration="2" complete="0" expand="true"/>
+        <task id="21" name="Notice d'utilisation" color="#8cb6ce" meeting="false" start="2018-04-25" duration="2" complete="0" expand="true"/>
+        <task id="22" name="Rapport final personnel" color="#8cb6ce" meeting="false" start="2018-04-25" duration="2" complete="0" expand="true"/>
+        <task id="23" name="Rapport final d'ensemble" color="#8cb6ce" meeting="false" start="2018-04-25" duration="2" complete="0" expand="true"/>
+        <task id="24" name="Fin du rapport personel" color="#8cb6ce" meeting="false" start="2018-05-22" duration="3" complete="0" expand="true"/>
+        <task id="25" name="Fin du rapport d'ensemble" color="#8cb6ce" meeting="false" start="2018-01-16" duration="1" complete="0" expand="true"/>
+        <task id="44" name="tâche_44" meeting="false" start="2018-01-16" duration="1" complete="0" expand="true"/>
+        <task id="26" name="Mise au point et corrections" color="#8cb6ce" meeting="false" start="2018-05-29" duration="3" complete="0" expand="true"/>
+        <task id="40" name="Envoi dossier E62" color="#3333ff" meeting="false" start="2018-05-29" duration="1" complete="0" thirdDate="2018-02-13" thirdDate-constraint="0" expand="true"/>
+        <task id="27" name="Test oral (FINAL)" color="#66ff00" meeting="false" start="2018-06-05" duration="3" complete="0" thirdDate="2018-06-05" thirdDate-constraint="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

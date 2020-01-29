@@ -1,0 +1,16 @@
+ANALOG
+Ch 1 Scale 2 V/, Pos -250 mV, Coup DC, BW Off, Inv Off, Imp 1M Ohm
+     Probe 10 : 1, Skew 0 s
+
+TRIGGER
+Sweep Mode Normal, Coup DC, Noise Rej Off, HF Rej Off, Holdoff 40.0 ns
+Mode EDGE, Source Ch 1, Slope NEG, Level 1.625 V
+
+HORIZONTAL
+Mode MAIN, Ref CENT, Main Scale 100 ns/, Main Delay 0 s
+
+ACQUISITION
+Mode NORM, Realtime On, Vectors On, Persistence Off
+
+MEASUREMENTS
+Frequency(1) Cur 7980000, Mean , Min , Max , Std Dev , Count 0

@@ -1,0 +1,1541 @@
+Tue Apr 10 09:42:20 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\DEFAULT_JMS.TCH
+Tue Apr 10 09:42:29 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 09:42:29 Saved as file BACKUP1.MAX
+Tue Apr 10 09:42:29 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 09:42:29 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 10 09:42:29 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Tue Apr 10 09:42:29 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Tue Apr 10 09:42:30 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Tue Apr 10 09:42:30 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 09:42:30 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 09:42:30 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 10:22:01 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 10:26:36 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 10:38:09 Saved as file BACKUP1.MAX
+Tue Apr 10 10:48:39 Saved as file BACKUP1.MAX
+Tue Apr 10 10:59:09 Saved as file BACKUP1.MAX
+Tue Apr 10 11:04:41 Saved as file BACKUP1.MAX
+Tue Apr 10 11:04:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:04:42 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 10 11:04:42 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON100T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON156T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BGA.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\CLCC.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON050T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON085T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIN.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100B.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ECON100T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\FBUS.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ISA.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LCON100T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PC104.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCI.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON100T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON156T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PGA.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PLCC.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUAD.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUADB.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RELAY.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RF.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SBUS.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIP.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SM.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOG.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOJ.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\STIFF.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TELE.llb
+Tue Apr 10 11:04:42 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TO.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\VRES.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\WCON100T.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\XT.llb
+Tue Apr 10 11:04:43 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Apr 10 11:04:43 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:04:43 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:04:43 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:05:17 Saved as file BACKUP1.MAX
+Tue Apr 10 11:05:17 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:05:17 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 10 11:05:17 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON156T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BGA.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\CLCC.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON050T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON085T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIN.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100B.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ECON100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\FBUS.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ISA.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LCON100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PC104.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCI.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON156T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PGA.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PLCC.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUAD.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUADB.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RELAY.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RF.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SBUS.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIP.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SM.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOG.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOJ.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\STIFF.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TELE.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TO.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\VRES.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\WCON100T.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\XT.llb
+Tue Apr 10 11:05:17 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Apr 10 11:05:18 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:05:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:05:18 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:09:08 Saved as file BACKUP1.MAX
+Tue Apr 10 11:09:08 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:09:08 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 10 11:09:08 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:09:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON100T.llb
+Tue Apr 10 11:09:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON156T.llb
+Tue Apr 10 11:09:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BGA.llb
+Tue Apr 10 11:09:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\CLCC.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON050T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON085T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIN.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100B.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ECON100T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\FBUS.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ISA.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LCON100T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PC104.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCI.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON100T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON156T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PGA.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PLCC.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUAD.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUADB.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RELAY.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RF.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SBUS.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIP.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SM.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOG.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOJ.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\STIFF.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TELE.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TO.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\VRES.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\WCON100T.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\XT.llb
+Tue Apr 10 11:09:09 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Apr 10 11:09:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:09:10 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:10:09 Saved as file BACKUP1.MAX
+Tue Apr 10 11:10:25 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:20:18 Saved as file BACKUP1.MAX
+Tue Apr 10 11:20:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:20:18 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 10 11:20:18 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON156T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BGA.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\CLCC.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON050T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON085T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIN.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100B.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ECON100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\FBUS.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ISA.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LCON100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PC104.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCI.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON156T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PGA.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PLCC.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUAD.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUADB.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RELAY.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RF.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SBUS.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIP.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SM.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOG.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOJ.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\STIFF.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TELE.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TO.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\VRES.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\WCON100T.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\XT.llb
+Tue Apr 10 11:20:18 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Apr 10 11:20:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:20:18 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:20:39 Saved as file BACKUP1.MAX
+Tue Apr 10 11:22:15 Saved as file BACKUP1.MAX
+Tue Apr 10 11:22:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:22:15 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 10 11:22:15 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:22:15 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON156T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BGA.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\CLCC.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON050T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON085T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050F.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIN.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100B.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ECON100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\FBUS.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ISA.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\JUMPER.LLB
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LAYOUT.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LCON100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PC104.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCI.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON156T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PGA.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PLCC.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUAD.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUADB.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RELAY.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RF.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SBUS.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050F.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100F.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIP.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SM.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOG.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOJ.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\STIFF.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TELE.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_AXIAL.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CAP_P.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CYLND.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DIODE.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DISC.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_RAD.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TO.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TRAINING.LLB
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\VRES.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\WCON100T.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\XT.llb
+Tue Apr 10 11:22:16 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ZIGZAG.llb
+Tue Apr 10 11:22:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:22:16 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:23:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MAX
+Tue Apr 10 11:29:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_2.MAX
+Tue Apr 10 11:30:05 No new connections routed.
+Tue Apr 10 11:30:05 Total is now 0 out of 151 (0%).
+Tue Apr 10 11:31:39 Saved as file BACKUP1.MAX
+Tue Apr 10 11:41:39 Saved as file BACKUP1.MAX
+Tue Apr 10 11:49:06 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_2.MAX
+Tue Apr 10 11:52:09 Saved as file BACKUP1.MAX
+Tue Apr 10 11:58:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:15:19 Saved as file BACKUP1.MAX
+Wed Apr 11 09:25:18 Saved as file BACKUP1.MAX
+Wed Apr 11 09:35:18 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:39:40 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:41 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:42 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:42 Routed 6 connections in 3 seconds.
+Wed Apr 11 09:39:42 Total is now 90 out of 145 (62%).
+Wed Apr 11 09:39:42 Saved as file SWEEP1.MAX
+Wed Apr 11 09:39:44 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:45 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:46 Saved as file BACKUP1.MAX
+Wed Apr 11 09:39:46 Routed 59 connections in 4 seconds.
+Wed Apr 11 09:39:46 Total is now 145 out of 145 (100%).
+Wed Apr 11 09:39:46 Saved as file SWEEP2.MAX
+Wed Apr 11 09:39:47 No new connections routed.
+Wed Apr 11 09:39:47 Total is now 145 out of 145 (100%).
+Wed Apr 11 09:39:47 Saved as file SWEEP3.MAX
+Wed Apr 11 09:39:48 No new connections routed.
+Wed Apr 11 09:39:48 Total is now 145 out of 145 (100%).
+Wed Apr 11 09:39:48 Saved as file SWEEP4.MAX
+Wed Apr 11 09:39:50 No new connections routed.
+Wed Apr 11 09:39:50 Total is now 145 out of 145 (100%).
+Wed Apr 11 09:39:50 Saved as file SWEEP5.MAX
+Wed Apr 11 09:41:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:42:32 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:42:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:42:43 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:44 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:45 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:45 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:46 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:46 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:46 Routed 19 connections in 4 seconds.
+Wed Apr 11 09:42:46 Total is now 19 out of 146 (13%).
+Wed Apr 11 09:42:46 Saved as file SWEEP1.MAX
+Wed Apr 11 09:42:49 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:49 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:51 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:51 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:52 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:52 Saved as file BACKUP1.MAX
+Wed Apr 11 09:42:52 Routed 152 connections in 5 seconds.
+Wed Apr 11 09:42:52 Total is now 146 out of 146 (100%).
+Wed Apr 11 09:42:52 Saved as file SWEEP2.MAX
+Wed Apr 11 09:42:54 No new connections routed.
+Wed Apr 11 09:42:54 Total is now 146 out of 146 (100%).
+Wed Apr 11 09:42:54 Saved as file SWEEP3.MAX
+Wed Apr 11 09:42:55 No new connections routed.
+Wed Apr 11 09:42:55 Total is now 146 out of 146 (100%).
+Wed Apr 11 09:42:55 Saved as file SWEEP4.MAX
+Wed Apr 11 09:42:56 No new connections routed.
+Wed Apr 11 09:42:56 Total is now 146 out of 146 (100%).
+Wed Apr 11 09:42:56 Saved as file SWEEP5.MAX
+Wed Apr 11 09:43:17 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3_AUTOROUTE.MAX
+Wed Apr 11 09:44:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3_AUTOROUTE.MAX
+Wed Apr 11 09:55:17 Saved as file BACKUP1.MAX
+Wed Apr 11 09:57:36 Saved as file BACKUP1.MAX
+Wed Apr 11 09:57:36 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:57:37 UserDiv from Layout.INI for AutoECO: 60
+Wed Apr 11 09:57:41 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Wed Apr 11 09:57:41 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Wed Apr 11 09:57:42 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Wed Apr 11 09:57:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:57:43 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 09:59:53 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:05:47 Saved as file BACKUP1.MAX
+Wed Apr 11 10:07:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:07:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:09:24 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:10:06 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:10:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:13:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:13:31 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:13:46 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:15:47 Saved as file BACKUP1.MAX
+Wed Apr 11 10:20:06 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:21:07 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:24:59 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:26:17 Saved as file BACKUP1.MAX
+Wed Apr 11 10:28:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:32:51 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:33:46 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:36 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:37 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:37 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:38 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:38 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:36:47 Saved as file BACKUP1.MAX
+Wed Apr 11 10:37:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:38:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:38:27 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:39:31 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:40:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:40:45 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:42:38 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:44:51 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:45:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:46:47 Saved as file BACKUP1.MAX
+Wed Apr 11 10:47:22 Saved as file BACKUP1.MAX
+Wed Apr 11 10:47:22 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:47:22 UserDiv from Layout.INI for AutoECO: 60
+Wed Apr 11 10:47:22 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Wed Apr 11 10:47:22 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Wed Apr 11 10:47:23 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Wed Apr 11 10:47:23 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:47:24 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:49:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:51:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:51:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:51:22 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3_AUTOROUTE.MAX
+Wed Apr 11 10:51:40 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:55:12 Saved as file BACKUP1.MAX
+Wed Apr 11 10:55:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:55:13 UserDiv from Layout.INI for AutoECO: 60
+Wed Apr 11 10:55:13 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Wed Apr 11 10:55:13 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Wed Apr 11 10:55:13 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:55:13 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:57:27 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:57:47 Saved as file BACKUP1.MAX
+Wed Apr 11 10:58:25 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:59:00 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:59:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 10:59:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:02:14 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:06:57 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:08:17 Saved as file BACKUP1.MAX
+Wed Apr 11 11:09:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:10:25 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:10:55 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:15:03 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:17:14 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:18:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:18:47 Saved as file BACKUP1.MAX
+Wed Apr 11 11:18:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:19:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:20:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:21:38 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:21:47 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:22:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:22:31 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:23:07 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:27:22 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:28:30 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:29:17 Saved as file BACKUP1.MAX
+Wed Apr 11 11:30:05 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:30:34 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:30:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:38:04 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:38:35 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:38:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:39:47 Saved as file BACKUP1.MAX
+Wed Apr 11 11:41:49 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:41:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:41:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:41:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:42:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:42:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:45:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:45 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3.MAX
+Wed Apr 11 11:46:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Wed Apr 11 11:49:48 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 10:51:31 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_3_AUTOROUTE.MAX
+Thu Apr 12 11:05:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:06:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:06:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:18:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:18:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:22:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:22:31 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:22:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:25:54 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:27:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:29:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:30:14 Saved as file BACKUP1.MAX
+Thu Apr 12 11:31:49 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:33:07 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:33:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:33:54 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:35:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:35:38 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:35:50 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:36:08 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:36:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:37:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:37:19 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:37:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:38:45 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:40:44 Saved as file BACKUP1.MAX
+Thu Apr 12 11:43:10 Saved as file BACKUP1.MAX
+Thu Apr 12 11:43:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:43:11 UserDiv from Layout.INI for AutoECO: 60
+Thu Apr 12 11:43:11 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Thu Apr 12 11:43:11 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Thu Apr 12 11:43:12 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Thu Apr 12 11:43:13 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Thu Apr 12 11:43:13 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:43:13 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:44:33 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:45:03 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:47:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:47:22 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:47:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:48:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:48:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:48:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:48:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:48:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:49:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:49:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:51:15 Saved as file BACKUP1.MAX
+Thu Apr 12 11:52:28 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:52:55 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:52:57 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 11:59:01 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 12:00:13 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 13:15:05 Saved as file BACKUP1.MAX
+Thu Apr 12 13:26:34 Saved as file BACKUP1.MAX
+Thu Apr 12 13:36:36 Loaded file C:\OrCAD_91\Layout\library\padstack.llb
+Thu Apr 12 13:39:35 Saved as file BACKUP1.MAX
+Thu Apr 12 13:47:29 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_4.MAX
+Thu Apr 12 13:49:28 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_5.MAX
+Thu Apr 12 13:53:35 Saved as file BACKUP1.MAX
+Thu Apr 12 14:03:35 Saved as file BACKUP1.MAX
+Thu Apr 12 14:13:35 Saved as file BACKUP1.MAX
+Thu Apr 12 14:13:45 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_5.MAX
+Thu Apr 12 14:13:46 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4_5.MAX
+Thu Apr 12 14:14:25 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:14:47 Saved as file BACKUP1.MAX
+Thu Apr 12 14:14:47 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:14:47 UserDiv from Layout.INI for AutoECO: 60
+Thu Apr 12 14:14:47 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Thu Apr 12 14:14:47 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Thu Apr 12 14:14:48 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:14:48 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:25:35 Saved as file BACKUP1.MAX
+Thu Apr 12 14:32:36 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:35:35 Saved as file BACKUP1.MAX
+Thu Apr 12 14:40:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:43:27 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:43:27 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:43:27 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:43:27 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5.MAX
+Thu Apr 12 14:43:38 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 14:46:05 Saved as file BACKUP1.MAX
+Thu Apr 12 14:56:05 Saved as file BACKUP1.MAX
+Thu Apr 12 14:56:34 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:03:26 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:06:05 Saved as file BACKUP1.MAX
+Thu Apr 12 15:06:13 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:12:25 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:16:05 Saved as file BACKUP1.MAX
+Thu Apr 12 15:16:23 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:17:56 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:19:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:24:56 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:26:05 Saved as file BACKUP1.MAX
+Thu Apr 12 15:28:07 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:28:08 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:28:08 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:29:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:29:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:29:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:30:44 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:31:45 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:32:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:32:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:15 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:33:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:42 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:43 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:43 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:43 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:43 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:34:43 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:36:05 Saved as file BACKUP1.MAX
+Thu Apr 12 15:40:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:40:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:40:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:41:29 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:43:45 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:43:48 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:44:16 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:45:23 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:45:24 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:46:06 Saved as file BACKUP1.MAX
+Thu Apr 12 15:47:29 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:48:24 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:55:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:55:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:55:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:55:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:56:06 Saved as file BACKUP1.MAX
+Thu Apr 12 15:57:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:57:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:57:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:57:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:57:12 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:57:14 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:57:14 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:58:22 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 15:59:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_2.MAX
+Thu Apr 12 21:38:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:40:05 Saved as file BACKUP1.MAX
+Thu Apr 12 21:40:05 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:40:06 UserDiv from Layout.INI for AutoECO: 60
+Thu Apr 12 21:40:06 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON100T.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BCON156T.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\BGA.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\CLCC.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON050T.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DCON085T.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050F.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIMM050T.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIN.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100B.llb
+Thu Apr 12 21:40:06 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DIP100T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ECON100T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\FBUS.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ISA.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\JUMPER.LLB
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LAYOUT.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\LCON100T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PC104.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCI.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON100T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PCON156T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PGA.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\PLCC.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUAD.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\QUADB.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RELAY.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\RF.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SBUS.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050F.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM050T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100F.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIMM100T.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SIP.llb
+Thu Apr 12 21:40:07 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SM.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOG.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\SOJ.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\STIFF.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TELE.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_AXIAL.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CAP_P.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_CYLND.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DIODE.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_DISC.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TM_RAD.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TO.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\TRAINING.LLB
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\VRES.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\WCON100T.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\XT.llb
+Thu Apr 12 21:40:08 Loaded file C:\ORCAD_91\LAYOUT_PLUS\library\ZIGZAG.llb
+Thu Apr 12 21:40:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:40:09 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:41:01 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:41:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:41:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:41:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:41:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Thu Apr 12 21:41:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V5_4.MAX
+Mon Apr 16 09:47:36 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 08:49:01 Saved as file BACKUP1.MAX
+Tue Apr 17 08:49:01 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 08:49:02 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 17 08:49:02 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Tue Apr 17 08:49:02 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Tue Apr 17 08:49:03 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Tue Apr 17 08:49:03 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 08:49:03 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 08:49:34 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 08:49:39 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 08:50:33 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 08:51:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 08:51:02 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 08:59:47 Saved as file BACKUP1.MAX
+Tue Apr 17 09:10:17 Saved as file BACKUP1.MAX
+Tue Apr 17 09:20:47 Saved as file BACKUP1.MAX
+Tue Apr 17 09:31:17 Saved as file BACKUP1.MAX
+Tue Apr 17 09:41:47 Saved as file BACKUP1.MAX
+Tue Apr 17 09:52:17 Saved as file BACKUP1.MAX
+Tue Apr 17 10:02:47 Saved as file BACKUP1.MAX
+Tue Apr 17 10:12:47 Saved as file BACKUP1.MAX
+Tue Apr 17 10:23:17 Saved as file BACKUP1.MAX
+Tue Apr 17 10:33:47 Saved as file BACKUP1.MAX
+Tue Apr 17 10:44:17 Saved as file BACKUP1.MAX
+Tue Apr 17 10:49:00 Saved as file BACKUP1.MAX
+Tue Apr 17 10:49:00 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 10:49:00 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 17 10:49:00 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Tue Apr 17 10:49:00 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Tue Apr 17 10:49:00 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 10:49:00 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Tue Apr 17 10:49:52 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 10:54:47 Saved as file BACKUP1.MAX
+Tue Apr 17 11:05:17 Saved as file BACKUP1.MAX
+Tue Apr 17 11:11:59 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:11:59 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:02 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:03 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:03 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:03 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:04 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:04 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:04 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:04 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:04 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:04 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:05 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:05 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:05 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:05 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:05 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:05 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:06 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:06 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:06 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:07 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:07 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:08 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:08 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:08 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:08 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:09 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:09 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:09 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:09 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:09 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:09 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:10 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:10 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:10 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:10 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:10 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:11 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:11 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:11 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:12 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:13 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:13 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:13 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:13 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:13 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:14 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:14 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:14 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:17 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:20 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:21 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:21 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:22 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:22 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:22 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:26 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:27 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:28 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:28 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:28 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:29 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:29 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:29 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:30 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:30 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:12:32 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:46 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:46 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:47 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:48 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:48 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:49 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:49 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:49 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:16:49 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:12 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:12 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:13 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:14 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:14 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:14 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:15 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:16 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:17 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:17 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:18 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:19 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:20 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:20 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:21 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:21 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:22 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:22 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:22 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:23 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:23 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:24 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:24 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:24 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:25 Loaded file C:\OrCAD_91\Layout\data\template.imp
+Tue Apr 17 11:17:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:17:58 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:18:04 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:18:06 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:18:06 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:18:07 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:27:52 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:28:03 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:28:40 Saved as file BACKUP1.MAX
+Tue Apr 17 11:28:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:28:40 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 17 11:28:40 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Tue Apr 17 11:28:40 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Tue Apr 17 11:28:40 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:28:40 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:28:40 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:29:26 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:29:33 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP2.MAX
+Tue Apr 17 11:29:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:47:03 Saved as file BACKUP1.MAX
+Tue Apr 17 11:47:03 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:47:04 UserDiv from Layout.INI for AutoECO: 60
+Tue Apr 17 11:47:04 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\BCON100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\BCON156T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\BGA.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\CLCC.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DCON050T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DCON085T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050F.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DIMM050T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DIN.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100B.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DIP100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\DSUBT_HD.LLB
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\ECON100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\FBUS.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\ISA.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\JUMPER.LLB
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\LAYOUT.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\LCON100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\PC104.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\PCI.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\PCON100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\PCON156T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\PGA.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\PLCC.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\QUAD.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\QUADB.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\RELAY.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\RF.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SBUS.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050F.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM050T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100F.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SIMM100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SIP.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SM.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SOG.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\SOJ.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\STIFF.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TELE.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TM_AXIAL.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CAP_P.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TM_CYLND.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DIODE.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TM_DISC.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TM_RAD.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TO.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\TRAINING.LLB
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\VRES.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\WCON100T.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\XT.llb
+Tue Apr 17 11:47:04 Loaded file C:\ORCAD_91\LAYOUT\library\ZIGZAG.llb
+Tue Apr 17 11:47:04 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:47:04 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:10 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:11 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V6.MAX
+Tue Apr 17 11:52:29 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:31:18 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:32:52 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:32:54 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:32:54 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:32:55 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:32:56 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 09:38:59 Saved as file BACKUP1.MAX
+Wed Apr 18 09:49:29 Saved as file BACKUP1.MAX
+Wed Apr 18 09:59:59 Saved as file BACKUP1.MAX
+Wed Apr 18 10:10:29 Saved as file BACKUP1.MAX
+Wed Apr 18 10:20:59 Saved as file BACKUP1.MAX
+Wed Apr 18 10:31:29 Saved as file BACKUP1.MAX
+Wed Apr 18 10:38:41 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 10:41:59 Saved as file BACKUP1.MAX
+Wed Apr 18 10:52:29 Saved as file BACKUP1.MAX
+Wed Apr 18 11:03:29 Saved as file BACKUP1.MAX
+Wed Apr 18 11:09:34 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 11:15:29 Saved as file BACKUP1.MAX
+Wed Apr 18 11:27:09 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 11:27:59 Saved as file BACKUP1.MAX
+Wed Apr 18 11:37:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Wed Apr 18 11:38:29 Saved as file BACKUP1.MAX
+Thu Apr 19 13:29:50 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BACKUP1.MAX
+Thu Apr 19 13:29:56 Loaded file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Thu Apr 19 13:29:58 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Thu Apr 19 13:35:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V7.MAX
+Thu Apr 19 13:35:34 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 13:36:47 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 13:36:47 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 13:36:47 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 13:36:48 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 13:36:49 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 13:45:43 Saved as file BACKUP1.MAX
+Thu Apr 19 13:47:54 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Thu Apr 19 15:15:20 Saved as file BACKUP1.MAX
+Thu Apr 19 15:25:50 Saved as file BACKUP1.MAX
+Thu Apr 19 15:36:20 Saved as file BACKUP1.MAX
+Tue Apr 24 08:41:36 Saved as file BACKUP1.MAX
+Tue Apr 24 08:45:21 Saved as file C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V8_FINAL.MAX
+Tue May 22 08:55:13 Saved as file BACKUP1.MAX
+Tue May 22 09:05:13 Saved as file BACKUP1.MAX
+Tue May 22 09:15:13 Saved as file BACKUP1.MAX
+Tue May 22 09:25:14 Saved as file BACKUP1.MAX
+Tue May 22 09:35:14 Saved as file BACKUP1.MAX
+Tue May 22 09:45:14 Saved as file BACKUP1.MAX
+Tue May 22 09:55:14 Saved as file BACKUP1.MAX
+Tue May 22 10:05:14 Saved as file BACKUP1.MAX
+Tue May 22 10:15:14 Saved as file BACKUP1.MAX
+Tue May 22 10:25:14 Saved as file BACKUP1.MAX
+Tue May 22 10:35:15 Saved as file BACKUP1.MAX
+Tue May 22 10:45:15 Saved as file BACKUP1.MAX
+Tue May 22 10:55:15 Saved as file BACKUP1.MAX
+Tue May 22 11:05:15 Saved as file BACKUP1.MAX
+Tue May 22 11:49:41 Saved as file BACKUP1.MAX
+Wed May 23 10:21:43 Saved as file BACKUP1.MAX
+Wed May 23 10:32:12 Saved as file BACKUP1.MAX
+Wed May 23 10:42:42 Saved as file BACKUP1.MAX
+Wed May 23 10:53:13 Saved as file BACKUP1.MAX
+Wed May 23 11:03:42 Saved as file BACKUP1.MAX
+Wed May 23 11:14:12 Saved as file BACKUP1.MAX
+Wed May 23 11:24:42 Saved as file BACKUP1.MAX
+Wed May 23 11:35:12 Saved as file BACKUP1.MAX
+Wed May 23 11:45:42 Saved as file BACKUP1.MAX
+Wed May 23 11:56:12 Saved as file BACKUP1.MAX
+Thu May 24 09:51:56 Saved as file BACKUP1.MAX
+Thu May 24 10:02:25 Saved as file BACKUP1.MAX
+Thu May 24 10:12:55 Saved as file BACKUP1.MAX
+Thu May 24 10:32:18 Saved as file BACKUP1.MAX
+Thu May 24 10:42:48 Saved as file BACKUP1.MAX
+Thu May 24 10:53:18 Saved as file BACKUP1.MAX
+Thu May 24 11:03:48 Saved as file BACKUP1.MAX
+Thu May 24 11:14:18 Saved as file BACKUP1.MAX
+Thu May 24 11:24:48 Saved as file BACKUP1.MAX
+Thu May 24 11:35:18 Saved as file BACKUP1.MAX
+Thu May 24 11:45:48 Saved as file BACKUP1.MAX
+Thu May 24 11:56:18 Saved as file BACKUP1.MAX
+Thu May 24 12:06:48 Saved as file BACKUP1.MAX
+Thu May 24 12:59:59 Saved as file BACKUP1.MAX
+Thu May 24 13:10:29 Saved as file BACKUP1.MAX
+Thu May 24 13:20:59 Saved as file BACKUP1.MAX
+Thu May 24 13:31:29 Saved as file BACKUP1.MAX
+Thu May 24 13:41:59 Saved as file BACKUP1.MAX
+Thu May 24 13:52:29 Saved as file BACKUP1.MAX
+Thu May 24 14:02:59 Saved as file BACKUP1.MAX

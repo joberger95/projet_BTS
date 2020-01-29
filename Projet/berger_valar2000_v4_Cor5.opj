@@ -1,0 +1,82 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\orcad_91\userlib\bts_2018.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_91\userlib\ajout_22_04_16.olb"
+        (Type "Schematic Library")))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "5")
+    (EDIF_Netlist_File
+       "C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V3_COR4.EDN")
+    (EDIF_Allow_NonEDIF "FALSE")
+    (EDIF_Pin_Names "FALSE")
+    (EDIF_No_Library "FALSE")
+    (EDIF_Net_Props "FALSE")
+    (EDIF_Part_Props "FALSE")
+    (EDIF_Pin_Props "FALSE")
+    (EDIF_Designators "FALSE")
+    (EDIF_Part_Value "{Value}")
+    (EDIF_PCB_Footprint "{PCB Footprint}")
+    (EDIF_View_Output "FALSE")
+    (LAYOUT_Netlist_File
+       "C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\_ORCAD\BERGER_VALAR2000_V4.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (NoModify)
+    (TRUE)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File ".\BERGER_VALAR2000_V4.DRC")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\berger_valar2000_v4.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\berger_valar2000_v4.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (Ptest
+      (FullPartName "Ptest.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 320 0 455"))
+      (Tab 0))))

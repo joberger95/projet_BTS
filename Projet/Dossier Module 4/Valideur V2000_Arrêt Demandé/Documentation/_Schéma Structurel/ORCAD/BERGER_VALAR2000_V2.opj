@@ -1,0 +1,54 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\orcad_91\userlib\bts_2018.olb"
+        (Type "Schematic Library")))
+    (File
+       "C:\Users\Jordan\Documents\Projet_BTS_2018\Dossier Module 4\_ORCAD\BERGER_VALAR2000_V4.DSN"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\USERS\JORDAN\DOCUMENTS\PROJET_BTS_2018\DOSSIER MODULE 4\VALIDEUR V2000_ARRÊT DEMANDÉ\DOCUMENTATION\_SCHÉMA STRUCTUREL\ORCAD\BERGER_VALAR2000_V2.DRC"))
+  (Folder "Outputs"
+    (File ".\berger_valar2000_v2.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0"))
+    (1N4001
+      (FullPartName "1N4001.Normal")
+      (LibraryName "C:\ORCAD_91\USERLIB\BTS_2018.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\Jordan\Documents\Projet_BTS_2018\Dossier Module 4\_ORCAD\BERGER_VALAR2000_V4.DSN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 238 0 537"))
+      (Tab 0))))
